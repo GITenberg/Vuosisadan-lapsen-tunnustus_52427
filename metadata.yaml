@@ -1,0 +1,41 @@
+_repo: Vuosisadan-lapsen-tunnustus_52427
+_version: 0.0.1
+alternative_title: La confession d'un enfant du siècle. Finnish
+contributor:
+  translator:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+creator:
+  author:
+    agent_name: Musset, Alfred de
+    aliases:
+    - Musset, Louis Charles Alfred de
+    - DeMusset, Alfred
+    - De Musset, Alfred
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+description: ''
+gutenberg_issued: '2016-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52427'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcsh 'France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Vuosisadan lapsen tunnustus
+url: http://www.gutenberg.org/ebooks/52427
