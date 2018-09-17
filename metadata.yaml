@@ -1,5 +1,5 @@
 _repo: Vuosisadan-lapsen-tunnustus_52427
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La confession d'un enfant du siècle. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '9084'
     url: http://www.gutenberg.org/2009/agents/9084
     wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Musset, Alfred de
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52427#Vuosisadan-lapsen-tunnustus
 gutenberg_issued: '2016-06-28'
 gutenberg_type: Text
 identifiers:
